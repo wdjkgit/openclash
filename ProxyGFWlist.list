@@ -6337,7 +6337,6 @@ IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
-IP-CIDR,192.168.10.66,no-resolve
 
 # Wikipedia 维基相关域名
 DOMAIN-SUFFIX,mediawiki.org
